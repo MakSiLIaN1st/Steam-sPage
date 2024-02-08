@@ -139,10 +139,10 @@ footer{
     border-radius: 170px;
     border: 1px solid #000;
     background: #DCE5E2;
-    left: 5%;
+    margin_left: 5%;
 }
 .input_but{
     position: absolute;
-    right: 5%;
+    margin_right: 5%;
     
 }
