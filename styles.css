@@ -140,3 +140,6 @@ footer{
     border: 1px solid #000;
     background: #DCE5E2;
 }
+.input_but{
+    position: absolute;
+}
