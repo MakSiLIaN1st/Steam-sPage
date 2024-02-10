@@ -124,12 +124,13 @@ footer{
     font-size: 50px;
     position: absolute;
     color: rgb(109, 108, 90);
-    bottom: -65%;
+    bottom: 25%;
 }
 .div{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    position: relative;
 }
 .input{
     position: absolute;
